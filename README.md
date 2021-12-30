@@ -1,2 +1,2 @@
 # springboot-backend
-spring boot crud application using MySQL and Angular
+CRUD Application using spring boot, angular,MySQL
